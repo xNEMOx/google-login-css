@@ -1,0 +1,145 @@
+.login-box {
+  position: absolute;
+  top: 18%;
+  left: 33%;
+  width: 460px;
+  height: 500px;
+  border: 1px solid #DADCE0;
+  border-radius: 10px;
+}
+
+
+.login-box h1 {
+  position: absolute;
+  top: 15%;
+  left: 40%;
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+
+}
+
+.login-box x1 {
+  position: absolute;
+  top: 27%;
+  left: 30%;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  
+}
+
+
+.login-box x2 {
+  position: absolute;
+  top: 52%;
+  left: 7%;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  color: #1A73E8;
+  
+}
+
+.login-box x3 {
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  color: #1A73E8;
+  top: 81%;
+  left: 7%;
+
+}
+
+
+
+.login-box small {
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  color: #5F6368;
+  top: 65%;
+  left: 7%;
+  
+}
+
+.login-box span {
+  color: #1A73E8;
+  font-weight: bold;
+}
+
+.login-box input {
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  font-size: 20px;
+  width: 400px;
+  height: 50px;
+  top: 40%;
+  left: 7%;
+  background: none;
+	color: inherit;
+	border: 1px solid #DADCE0;
+  border-radius: 3px;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+
+}
+
+input::placeholder {
+  position: absolute;
+  top: 30%;
+  left: 3%;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+}
+
+.login-box button {
+  position: absolute;
+  top: 80%;
+  left: 74%;
+  font-family: 'Poppins', sans-serif;
+  background-color: #1A73E8;
+  height: 40px;
+  width: 85px;
+  font-size: 15px;
+  color: white;
+  outline: none;
+  padding: 0;
+  border: none;
+  border-radius: 5px;
+
+}
+
+.login-box button:hover {
+  background-color: #1567D3;
+  -webkit-box-shadow: 5px 6px 12px -6px rgba(0,0,0,0.5); 
+  box-shadow: 5px 6px 12px -6px rgba(0,0,0,0.5);
+
+}
+
+
+.login-box img {
+  position: absolute;
+  top: 7%;
+  left: 38%;
+  width: 100px;
+  height: 70px;
+}
+
+.tag h1 {
+  font-family: 'Poppins', sans-serif;
+  color: black;
+}
+
+.tag h1:hover {
+  font-family: 'Poppins', sans-serif;
+  color: red;
+}
+
+.tag span {
+  color: red;
+}
+
+
+.tag a {
+  font-family: 'Poppins', sans-serif;
+  color: black;
+}
